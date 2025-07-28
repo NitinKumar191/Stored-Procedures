@@ -5,5 +5,6 @@ AS
 Begin
 
 SELECT * FROM [vw_tblinvestment] WHERE Counterparty = 'Borrower AS' 
+and Currency = 'GBP'
 
 End
