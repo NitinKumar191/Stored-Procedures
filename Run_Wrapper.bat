@@ -1,3 +1,3 @@
 @echo off
-python "C:\Users\NitinKumar\Downloads\WrapperRunningProd.py"
+python "C:\Users\AmitraVMadmin\Downloads\WrapperRunningProd.py"
 pause
